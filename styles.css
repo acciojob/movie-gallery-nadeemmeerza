@@ -1,5 +1,9 @@
 
 /* Your CSS Code here. */
+.container{
+	display:flex;
+	direction:column;
+}
 .sm12{
 	display:flex;
 	justify-content:space-evenly;
@@ -14,5 +18,5 @@
 }
 .sm1{
 	display:flex;
-	justify-content:space-evenly;
+	justify-content:center;
 }
