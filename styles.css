@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+.sm12{
+	display:flex;
+	justify-content:space-evenly;
+}
+.sm6{
+	display:flex;
+	justify-content:space-evenly;
+}
+.sm3{
+	display:flex;
+	justify-content:space-evenly;
+}
+.sm1{
+	display:flex;
+	justify-content:space-evenly;
+}
