@@ -6,15 +6,15 @@
 }
 .sm12{
 	display:flex;
-	justify-content:space-evenly;
+	justify-content:space-between;
 }
 .sm6{
 	display:flex;
-	justify-content:space-evenly;
+	justify-content:space-between;
 }
 .sm3{
 	display:flex;
-	justify-content:space-evenly;
+	justify-content:space-between;
 }
 .sm1{
 	display:flex;
